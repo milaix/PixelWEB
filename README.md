@@ -5,6 +5,6 @@
 
 📂 | These templates are open source but you cant make a repository like this and steal it all. You can use them freely for websites but not to steal them and make your repository.
 
-❤️ | You can show your support by giving this repository a star or subscribe to pixelatedguyx on youtube.
+❤️ | You can show your support by giving this repository a star or subscribe to milaix0 on youtube.
 
 🌀 | Current version 1.0 Codename AERO.
